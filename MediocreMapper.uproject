@@ -290,7 +290,6 @@
 		"WindowsNoEditor",
 		"AllDesktop",
 		"MacNoEditor",
-		"LinuxNoEditor",
-		"Android"
+		"LinuxNoEditor"
 	]
 }
